@@ -1,0 +1,2 @@
+# scrapyPrj
+learn scrapy
